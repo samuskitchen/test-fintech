@@ -1,6 +1,9 @@
 # Fintech
 
-It's the Makers Solutions Test
+It's the Makers Solutions Test. In order to test or run the project you must install the lombok plugin in your IDE :
+
+- [Intellij](https://projectlombok.org/setup/intellij)
+- [Eclipse](https://projectlombok.org/setup/eclipse)
 
 ## Installation
 
